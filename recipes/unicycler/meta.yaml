@@ -40,4 +40,4 @@ about:
   home: https://github.com/rrwick/Unicycler
   license: GPL-3.0
   license_file: LICENSE
-  summary: 'Hybrid assembly pipeline for bacterial genomes'
+  summary: 'Unicycler is a hybrid assembly pipeline for bacterial genomes. It uses both Illumina reads and long reads (PacBio or Nanopore) to produce complete and accurate assemblies.'
